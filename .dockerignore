@@ -1,3 +1,6 @@
 .github
 .gitignore
-node_modules
+.git
+.npmrc
+.graphqlconfig
+dockerfile
