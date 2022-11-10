@@ -13,5 +13,8 @@
   },
   "files": [
     "service.js"
-  ]
+  ],
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
 }
