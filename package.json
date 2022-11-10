@@ -9,7 +9,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@iyi-su/microservice": "0.0.5"
+    "@iyi-su/microservice": "^0.0.6"
   },
   "files": [
     "service.js"

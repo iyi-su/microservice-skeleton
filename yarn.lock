@@ -207,10 +207,10 @@
   dependencies:
     tslib "^2.4.0"
 
-"@iyi-su/microservice@0.0.5":
-  version "0.0.5"
-  resolved "https://npm.pkg.github.com/download/@iyi-su/microservice/0.0.5/9a78825f4c7641ecf338867efa0815915fdf32ca#9a78825f4c7641ecf338867efa0815915fdf32ca"
-  integrity sha512-XNPejoRUTQT1twYR+MQWZOuiWMOQdvHoIw+mB+UyYGWrnskzIXmGOvCj1mUcyrWGAvAtNrMmmH1aY2FEaaki7w==
+"@iyi-su/microservice@^0.0.6":
+  version "0.0.6"
+  resolved "https://npm.pkg.github.com/download/@iyi-su/microservice/0.0.6/197edb7af6a126cb49e358baa758e8aae60485ec#197edb7af6a126cb49e358baa758e8aae60485ec"
+  integrity sha512-OLv4oJFUBUY/VY8PHL7ZaRVIVqHhTrLD09/ZpN2bI9VdeR08nxK6/F2k4mE+at4+SPKh0M2b6SnZMxsTo3LSXA==
   dependencies:
     "@apollo/server" "^4.1.1"
     graphql "^16.6.0"
